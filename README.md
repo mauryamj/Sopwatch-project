@@ -11,6 +11,7 @@ A simple stopwatch built using HTML, CSS, and JavaScript.
 
 ## 🚀 How to Use  
 1. **Clone the repository:**
+https://github.com/mauryamj/Sopwatch-project
 2. **Open `sw.html`** in your browser.
 
 ## 👨‍💻 Author  
