@@ -11,3 +11,9 @@ A simple stopwatch built using HTML, CSS, and JavaScript.
 
 ## 🚀 How to Use  
 1. **Clone the repository:**
+2. **Open `index.html`** in your browser.
+
+## 👨‍💻 Author  
+**Abhishek Maurya**  
+
+---
