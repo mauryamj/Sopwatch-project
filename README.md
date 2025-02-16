@@ -12,7 +12,7 @@ A simple stopwatch built using HTML, CSS, and JavaScript.
 ## 🚀 How to Use  
 1. **Clone the repository:**
 https://github.com/mauryamj/Stopwatch-project
-2. **Open `Sw.html`** in your browser.
+2. **Open `index.html`** in your browser.
 
 ## 👨‍💻 Author  
 **Abhishek Maurya**  
