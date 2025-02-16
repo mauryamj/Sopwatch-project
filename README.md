@@ -7,7 +7,7 @@ A simple stopwatch built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots  
 ### 1. Stopwatch Interface  
-![Stopwatch Screenshot](./screenshots/stopwatch.png)
+![Stopwatch Screenshot](./screenshots/stopwatch.jpg)
 
 ## 🚀 How to Use  
 1. **Clone the repository:**
